@@ -10,6 +10,8 @@ public class SamplePushTest {
 		
 		System.out.println("Sample Branch A code updated");
 		
+		System.out.println("Sample Branch B code updated");
+		
 	}
 
 }
