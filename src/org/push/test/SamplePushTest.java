@@ -8,6 +8,8 @@ public class SamplePushTest {
 		
 		System.out.println("Sample Test Java");
 		
+		System.out.println("Sample Branch A code updated");
+		
 	}
 
 }
